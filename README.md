@@ -1,6 +1,6 @@
 # MachineLearning_Weather.
 Machine Learning for processing weather.  
-#We use the python code.  
+#We use python code.  
 #We publish python code into Unbunto.  
 
 
